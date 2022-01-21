@@ -9,7 +9,7 @@
   - [Information Courier Web App](https://github.com/natkramarz/kurier-informacyjny) 
 - :books: I’m currently learning: 
   - React 
-  - Docker & Kubernetes 
+  - Docker 
 - :innocent: My favourite programming languages are: 
   - Python 
   - Java
