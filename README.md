@@ -10,8 +10,8 @@
 - :books: I’m currently learning: 
   - React 
 - :innocent: My favourite programming languages are: 
-  - Python 
   - Java
+  - Python
   - JavaScript   
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/natkramarz/?locale=en_US) 
