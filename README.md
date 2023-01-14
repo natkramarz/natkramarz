@@ -6,8 +6,10 @@
 
 
 - 🔭 I’m currently working on:
-  - [Information Courier Web App](https://github.com/natkramarz/kurier-informacyjny) 
+  - [Random Names Generator]([https://github.com/natkramarz/kurier-informacyjny](https://github.com/natkramarz/random_names_generator)) 
 - :books: I’m currently learning: 
+  - Spring Security 
+  - Machine Learning
   - React 
 - :innocent: My favourite programming languages are: 
   - Java
