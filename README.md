@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on:
   - [Random Names Generator](https://github.com/natkramarz/random_names_generator)
+  - [Gym App](https://github.com/natkramarz/gym_app)
 - :books: I’m currently learning: 
   - Spring Security 
   - Machine Learning
